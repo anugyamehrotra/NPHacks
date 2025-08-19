@@ -111,4 +111,4 @@ NP Hacks is distributed under a personal License.
 You may not use, distribute, or modify any elements/assets relating to NP Hacks.
 
 For full details, see the LICENSE file at:  
-[LICENSE]([https://github.com/<your-username>/nphacks/blob/main/LICENSE](https://github.com/anugyamehrotra/NPHacks/blob/main/LICENSE))  
+[LICENSE](https://github.com/anugyamehrotra/NPHacks/blob/main/LICENSE) 
